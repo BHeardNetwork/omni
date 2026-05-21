@@ -1,0 +1,1 @@
+# The AI Ear pipeline placeholder - will be expanded in next push

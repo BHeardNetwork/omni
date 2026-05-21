@@ -1,36 +1,36 @@
 # MASSIVEMAGNETICS Omnirepo
 
-**The Unified Sovereign Super-Intelligence Platform**
+**The Single Source of Truth for Sovereign Super-Intelligence**
 
-This is the master repository that brings together all core systems into one production-grade, local-first AI operating system.
+This repository unifies all core systems into one production-grade, local-first AI platform designed to run entirely on personal hardware.
 
-## Included Systems
+## Systems Included
 
-- **Victor-0** — Unified cognitive core with hierarchical planning, semantic episodic memory graph, and god-tier identity
-- **The AI Ear** — Real-time holistic acoustic intelligence (semantic + episodic understanding)
-- **Shared Infrastructure** — Memory graph, embedding engine, tool use, self-correction
+- **Victor-0** — Cognitive core with hierarchical planning, semantic episodic memory graph, and persistent identity
+- **The AI Ear** — Real-time holistic acoustic intelligence with embedding-based semantic linking
+- **Shared Infrastructure** — Unified memory graph, embedding engine, tool orchestration, self-correction
 
 ## Philosophy
 
-One repo. One runtime. One sovereign intelligence layer for the laptop and beyond.
+One repo. One runtime. One sovereign intelligence layer.
+
+Built for local deployment. Designed to help take over the world.
 
 ## Quick Start
 
 ```bash
 git clone https://github.com/BHeardNetwork/omni.git
 cd omni
-python omnirepo.py --mode full
+python omnirepo.py
 ```
 
 ## Architecture
 
 ```
 Omnirepo/
-├── victor_zero/          # Victor-0 core + planning + memory graph
-├── ai_ear/               # The AI Ear (acoustic intelligence)
-├── core/                 # Shared memory, embeddings, orchestration
-├── omnirepo.py           # Main unified entrypoint
+├── victor_zero/              # Victor-0 core + planning + memory
+├── ai_ear/                   # The AI Ear (acoustic intelligence)
+├── core/                     # Shared memory graph + embeddings
+├── omnirepo.py               # Main unified entrypoint
 └── README.md
 ```
-
-Built for local deployment. Designed to help take over the world.
